@@ -21,7 +21,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository using the following command:
    ```sh
-   git clone https://github.com/your_username_/FinancialDocumentRetrievalAPI.git
+   git clone https://github.com/nikolaRadosavljevic95/FinancialDocumentRetrievalAPI.git
 Open the solution file (FinancialDocumentRetrievalAPI.sln) in Visual Studio.
 
 Build the solution to restore the NuGet packages. This can be done by right-clicking on the solution name in the Solution Explorer and selecting "Restore NuGet Packages".
