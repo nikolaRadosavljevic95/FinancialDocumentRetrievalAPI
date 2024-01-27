@@ -19,11 +19,12 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation
 
-Clone the repository using the following command:
+1. Clone the repository using the following command:
    ```sh
    git clone https://github.com/nikolaRadosavljevic95/FinancialDocumentRetrievalAPI.git
-Open the solution file (FinancialDocumentRetrievalAPI.sln) in Visual Studio.
+   ```
+2. Open the solution file `FinancialDocumentRetrievalAPI.sln` in Visual Studio.
 
-Build the solution to restore the NuGet packages. This can be done by right-clicking on the solution name in the Solution Explorer and selecting "Restore NuGet Packages".
+3. Build the solution to restore the NuGet packages. This can be done by right-clicking on the solution name in the Solution Explorer and selecting "Restore NuGet Packages".
 
-The SQLite database will be automatically created when you run the project for the first time. There is no need for manual database setup.
+4. The SQLite database will be automatically created when you run the project for the first time. The Entity Framework Core is configured to ensure that the database and schema are created if they do not exist.
