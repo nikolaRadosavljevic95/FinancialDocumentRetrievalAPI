@@ -14,7 +14,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- .NET 6.0 SDK
+- .NET 8.0 SDK
 - Visual Studio 2022
 
 ### Installation
